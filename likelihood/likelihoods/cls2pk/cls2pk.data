@@ -1,0 +1,8 @@
+# data directory and fiducial file
+cls2pk.data_directory = os.path.join(data.path['data'], 'cls2pk')
+cls2pk.alpha_file  = "DES_nk24.npz"
+
+# use halofit method
+# note even if False halofit will be used if the .param
+# file or any other likelihood specifies halofit
+cls2pk.use_halofit = True

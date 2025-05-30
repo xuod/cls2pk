@@ -10,3 +10,5 @@ Then, simply run it as shown in the `.param` file provided. You can choose the e
 cls2pk.alpha_file  = "DES_nk24.npz"
 ```
 to point to a different experiment, eg. `ACT_nk24.npz`. 
+
+The noteboook `get_likelihood_components.ipynb` encodes saving the necessary likelihood components from any $\alpha(k)$ run. Please refer to that if for eg. you update the fiducial cosmology and produce all new $\alpha(k)$ to use in a MontePython likelihood. 

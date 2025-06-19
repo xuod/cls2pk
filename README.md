@@ -8,5 +8,5 @@ The notebook demonstrates the steps involved to reproduce the main results from 
 * Comparing the results with Planck ΛCDM expectations.
 * Investigating extensions of the ΛCDM model predictions for the matter power spectrum.
 
-In addition, the [likelihood](likelihood) folder contains derived likelihoods ready to use with the [MontePython](https://baudren.github.io/montepython.html) inference framework as well as code to generate these likelihoods at different fiducial cosmologies.
+In addition, the [likelihood](likelihood/likelihood_readme.md) folder contains derived likelihoods ready to use with the [MontePython](https://baudren.github.io/montepython.html) inference framework as well as code to generate these likelihoods at different fiducial cosmologies.
 
